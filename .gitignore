@@ -1,0 +1,41 @@
+# Dependencias
+/node_modules/
+
+# Directorios de compilación
+/dist/
+/build/
+/bundled-output/
+
+# Archivos de configuración de IDEs y editores
+/.vscode/
+/.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de configuración específicos del entorno
+.env
+.env.local
+
+# Archivos de depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema de archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios de cobertura
+/coverage/
+
+# Archivos de cierre de paquetes
+/package-lock.json
+/yarn.lock
+
+# Archivos compilados estáticos
+*.css
+*.js
+*.d.ts
+
+# Archivos de mapa de fuente
+*.map
